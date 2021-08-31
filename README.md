@@ -7,3 +7,7 @@ The relationship between a CCD camera's pixel counts vs exposure time tends to d
 *   `Yek_Dunham_2020.pdf` provides a thorough documentation of our findings.
 *   Files with the `.pro` extension in the `src` directory were used to perform the CCD linearity correction calibration.
 *   `src/main.tex` is the LaTeX source code used to typeset `Yek_Dunham_2020.pdf`.
+
+# Data
+
+The raw data is available upon request.
