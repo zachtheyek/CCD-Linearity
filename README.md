@@ -20,6 +20,8 @@ Finally, using polynomial regression, we determined an optimal linearity correct
 
 <img src="fig/piecewise.png" alt="" width="650"/>
 
+*_raw data available upon request_
+
 # Acknowledgements
 
 This work was funded by the Fredonia Summer Research and Creativity Grant.
