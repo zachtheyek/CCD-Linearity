@@ -2,7 +2,7 @@
 
 In theory, we would expect the signal received from a given camera to be linearly correlated with its exposure time, i.e. the longer the camera is exposed to light, the stronger the detected signal. However, due to certain underlying physical limitations, this relationship tends to divert from linearity as the sensor approaches its saturation limit.
 
-We know precisely the saturation limit for the CCD camera in the Fredonia observatory - 65535 counts. Hence, the goal of this project is to create a linearity correction calibration procedure that can be applied to all science images taken using the camera.
+We know precisely the saturation limit for the CCD camera in the Fredonia observatory - 65,535 counts. Hence, the goal of this project is to create a linearity correction calibration procedure that can be applied to all science images taken using the camera.
 
 # Results
 
